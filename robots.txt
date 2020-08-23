@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://ishmaelasabere.github.io/blog/sitemap.xml
